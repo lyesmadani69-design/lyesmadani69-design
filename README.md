@@ -19,8 +19,7 @@ Je transforme vos données brutes en **décisions business** grâce à :
 ### 🔹 Pipeline d’imputation automatique
 Pipeline Python pour nettoyer et structurer les données (valeurs manquantes, outliers, anomalies).  
 ![Pipeline - Pareto](https://raw.githubusercontent.com/midnight69100/portfolio-lyes/main/assets/pareto.png)  
-👉 [Voir le dépôt](https://github.com/midnight69100/pipeline-data-imputation-)
-
+👉 [Voir le dépôt]([Pipeline Data](https://github.com/midnight69100/pipeline-data-imputation)
 ---
 
 ### 🔹 Dashboard interactif
