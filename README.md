@@ -1,8 +1,25 @@
-# 👋 Bonjour, je suis Lyes !
+# 👋 Bonjour, je suis Lyes
 
 ## 💼 Data Analyst Freelance
-Spécialisé dans le **nettoyage, la structuration et la valorisation des données**.  
-Je transforme vos données brutes en **décisions business** grâce à :  
+
+J’aide les commerces et PME à **transformer leurs données en chiffre d’affaires** 📊  
+
+👉 Mon objectif : identifier ce qui vous fait **gagner de l’argent… et éliminer le reste**
+
+---
+
+## 🚀 Ce que je fais concrètement
+
+✔️ Nettoyage et fiabilisation des données (doublons, erreurs, incohérences)  
+✔️ Analyse des ventes et détection des produits rentables  
+✔️ Calcul de KPI clés (CA, panier moyen, top produits)  
+✔️ Analyse Pareto (20% produits = 80% du CA)  
+✔️ Détection des pertes et anomalies  
+✔️ Prévisions de ventes (Holt-Winters, lissage exponentiel)  
+
+---
+
+## 🛠️ Outils
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -14,35 +31,61 @@ Je transforme vos données brutes en **décisions business** grâce à :
 
 ---
 
-## 🚀 Projets phares
+## 📊 Projets
 
-### 🔹 Pipeline d’imputation automatique
-Pipeline Python pour nettoyer et structurer les données (valeurs manquantes, outliers, anomalies).  
-![Pipeline - Pareto](https://raw.githubusercontent.com/midnight69100/portfolio-lyes/main/assets/pareto.png)  
-👉 [Voir le dépôt]([Pipeline Data](https://github.com/midnight69100/pipeline-data-imputation)
----
+### 🔹 Analyse & Dashboard interactif
+Visualisation complète des ventes :  
+- CA par jour / mois  
+- Top produits  
+- Répartition des ventes  
+- Analyse comportement client  
 
-### 🔹 Dashboard interactif
-Dashboard ventes avec **Power BI et Streamlit**.  
-![Dashboard](https://raw.githubusercontent.com/midnight69100/portfolio-lyes/main/assets/dash.png)  
-👉 [Voir le dépôt](https://github.com/midnight69100/portfolio-lyes)
+![Dashboard](https://raw.githubusercontent.com/midnight69100/portfolio-lyes/main/assets/dash.png)
 
----
-
-### 🔹 Prévisions (Double lissage & Holt-Winters)
-Optimisation des coefficients, calcul RMSE, visualisation des prévisions.  
-![Prévisions](https://raw.githubusercontent.com/midnight69100/portfolio-lyes/main/assets/doubleliss.png)  
-👉 [Voir l’app Streamlit](https://portofolio-lyes.streamlit.app/)
+👉 https://portofolio-lyes.streamlit.app/
 
 ---
 
-## 📊 Statistiques GitHub
-![Stats](https://github-readme-stats.vercel.app/api?username=midnight69100&show_icons=true&theme=tokyonight)
+### 🔹 Analyse Pareto (20/80)
+Identification des produits qui génèrent le plus de chiffre d’affaires  
+
+![Pareto](https://raw.githubusercontent.com/midnight69100/portfolio-lyes/main/assets/pareto.png)
+
+👉 https://portofolio-lyes.streamlit.app/
 
 ---
 
-## 📫 Me contacter
-- ✉️ [lyesmadani69@gmail.com](mailto:lyesmadani69@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/tonprofil)  
-- 🌐 [Portfolio Streamlit](https://portofolio-lyes.streamlit.app/)  
+### 🔹 Prévisions de ventes
+Modèles de prévision pour anticiper :  
+- les stocks  
+- la demande  
+- les périodes creuses  
+
+![Prévisions](https://raw.githubusercontent.com/midnight69100/portfolio-lyes/main/assets/doubleliss.png)
+
+👉 https://portofolio-lyes.streamlit.app/
+
+---
+
+## 💎 Pourquoi travailler avec moi ?
+
+✔️ Approche simple et concrète (pas de jargon inutile)  
+✔️ Résultats orientés business  
+✔️ Adapté aux petits commerces  
+✔️ Analyse rapide et exploitable immédiatement  
+
+---
+
+## 📞 Contact
+
+📧 lyesmadani69@gmail.com  
+🔗 https://www.linkedin.com/in/tonprofil  
+🌐 https://portofolio-lyes.streamlit.app/
+
+---
+
+## 🚀 Analyse gratuite
+
+💬 Envoie-moi tes données (Excel / CSV)  
+👉 Je t’envoie un diagnostic clair en 24-48h 
 
